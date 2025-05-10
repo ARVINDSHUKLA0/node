@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "this is carte arvind shukla packge file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "arvind shukla",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "slick-slider": "^1.8.2"
+  }
+}
